@@ -1,2 +1,2 @@
-# flask-api-crud
-Flask web frame work with API - CRUD implementation
+# scriptor
+Dockerized flask app for automation
